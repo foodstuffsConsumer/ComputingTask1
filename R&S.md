@@ -6,14 +6,13 @@ The website will provide a short synopsis of the Hitchhiker's Guide's general st
 ## Use Cases
 The website will serve both as a method of promoting the Hitchhiker's Guide to new readers, and to engage prior fans of the book series.
 
-## Test Cases
-
 # Non-Functional Requirements
 
 ## Performance
+The website should run smoothly with no lag.
 
 ## Usability
-
-## Reliability
+The site should be very easy to use, being a simple scroll-down website with no small text.
 
 ## Security
+The website does not collect user data.
